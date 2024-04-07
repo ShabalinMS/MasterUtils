@@ -16,8 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Utils\DB\SQLite\" />
     <Folder Include="Utils\Settings\" />
-    <Folder Include="Utils\DB\" />
     <Folder Include="Utils\Log\" />
   </ItemGroup>
 
